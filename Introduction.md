@@ -7,3 +7,8 @@
     2. The demographic of the Hearst community;
     3. What the old website looked like;
     4. What the new one would look like;
+- Team Logo appear and Even will lay down our basic strategy.
+
+Potential question from the audience:
+- Where do we get the demographic data;
+- 
