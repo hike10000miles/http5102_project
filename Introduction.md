@@ -9,6 +9,9 @@
     4. What the new one would look like;
 - Team Logo appear and Even will lay down our basic strategy.
 
-Potential question from the audience:
-1. Where do we get the demographic data;
+Potential question from the audience.
 
+- Q: Where do we get the demographic data?
+  A: From Stats Canada.
+- Q: Where do we get the information about older people's online habit?
+  A: Online research.
