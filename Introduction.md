@@ -10,5 +10,5 @@
 - Team Logo appear and Even will lay down our basic strategy.
 
 Potential question from the audience:
-- Where do we get the demographic data;
-- 
+1. Where do we get the demographic data;
+
